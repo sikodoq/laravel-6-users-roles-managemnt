@@ -27,7 +27,7 @@ In this system,we use Laravel 6 to create a user registration and login system a
 
 ## I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:
 
-[Fiverr Profile](https://www.fiverr.com/nawjesh?up_rollout=true)
+[Fiverr Profile](https://www.fiverr.com/nawjesh?up_rollout=true) |
 [Fiverr Refferel](http://www.fiverr.com/s2/0e44853c56)
 
 ## Authentication
@@ -43,4 +43,4 @@ In this system,we use Laravel 6 to create a user registration and login system a
 * email: user@user.com
 * password: user
 
-madCoderz Blog is open sourced software licensed under the [MIT license](https://opensourse.org/licenses/MIT);
+madCoderz Boilarplate is open sourced software licensed under the [MIT license](https://opensourse.org/licenses/MIT);
