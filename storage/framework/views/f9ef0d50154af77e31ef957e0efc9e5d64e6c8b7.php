@@ -1,0 +1,1 @@
+<footer class="footer">Copyright &copy; <?php echo e(date('Y')); ?> <a href="https://www.madcoderz.com/" target="_blank">madCoderz</a>.<span class="d-none d-sm-inline-block">All rights reserved.</span></footer><?php /**PATH F:\madcoderz\htdocs\boilar-plate\resources\views/partials/_footer.blade.php ENDPATH**/ ?>
